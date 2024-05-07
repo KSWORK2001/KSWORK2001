@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Karan Shrivastava: Tech Enthusiast 🚀 | Computer Science student @GeorgiaStateUni 🎓 | Proud capstone project achiever with Google, transforming concepts into reality! Interned @Nexcen Global & SkyBridge, innovating and learning every step of the way! 💡 Let's talk code, innovation, or the latest trends in tech! Connect with me on LinkedIn & GitHub for exciting projects and collaborations! 🤝✨
+👨‍💻 Karan Shrivastava: AWS Cloud Architect🚀 | Computer Science student @GeorgiaStateUni 🎓 | Proud capstone project achiever with Google, transforming concepts into reality! Interned @Nexcen Global & SkyBridge, innovating and learning every step of the way! 💡 Let's talk code, innovation, or the latest trends in tech! Connect with me on LinkedIn & GitHub for exciting projects and collaborations! 🤝✨
 
 
 ## 🌐 Socials:
